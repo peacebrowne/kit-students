@@ -5,10 +5,12 @@
     text-align: center;
     background-color: blue;
     display: flex;
+    height: 300px;
     justify-content: space-evenly;
     padding-top: 10px;
     flex-wrap: wrap;
     gap: 10px;
   }
+
 
 
